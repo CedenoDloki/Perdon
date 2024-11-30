@@ -119,5 +119,4 @@
         <button class="button yes">Sí</button>
         <button class="button no">No</button>
     </div>
-</body>
-</html>
+
